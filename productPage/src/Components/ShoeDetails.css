@@ -1,0 +1,14 @@
+.shoe-details {
+    text-align: center;
+    color: hsl(0, 23%, 97%);
+  }
+  
+  .shoe-details h3 {
+    display: flexbox;
+    font-size: 20px;
+    color: #1687d3;
+    padding: 2px;
+    justify-content: center;
+
+  }
+  
